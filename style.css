@@ -150,14 +150,12 @@ aside {
 #mobile {
 	background-color: #A2B2C1;
 }
-#mobile2 {
-	background-color: #C3D7DF;
+
 }
 #desktop {
-	background-color: #C3D7DF;
-}
-#desktop2 {
 	background-color: #A2B2C1;
+}
+
 }
 .inner-wrapper-3 {
 	float: left;
